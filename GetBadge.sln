@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetBadge", "GetBadge\GetBadge.csproj", "{43C85E6F-7229-447C-9A7A-D46249C7C1E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Éléments de solution", "Éléments de solution", "{2A007B42-83C7-490E-A090-D728E7877F47}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43C85E6F-7229-447C-9A7A-D46249C7C1E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43C85E6F-7229-447C-9A7A-D46249C7C1E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43C85E6F-7229-447C-9A7A-D46249C7C1E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43C85E6F-7229-447C-9A7A-D46249C7C1E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1227F024-CCA0-453F-A20E-24F68D25FE17}
+	EndGlobalSection
+EndGlobal
